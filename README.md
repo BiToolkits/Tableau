@@ -1,1 +1,1 @@
-Collection of Tableau scripts for Tableau admin and dashboard development.
+Collection of Tableau scripts to automate Tableau admin and dashboard development.
